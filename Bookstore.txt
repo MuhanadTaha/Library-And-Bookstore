@@ -1,0 +1,5 @@
+ID is 20
+Name of bookstore is man
+Name of cityram
+Address isas.aa
+Novels3 romantic
